@@ -1,0 +1,11 @@
+Details of the book are as follows ::
+Name = The Data and Analytics Playbook: Proven Methods for Governed Data and Analytic Quality
+Kindle = $45.12
+Paperback = $43.65 - $59.95
+Paperback =  292 pages
+Publisher =  Morgan Kaufmann; 1 edition (September 16, 2016)
+Language =  English
+ISBN-10 =  0128023074
+ISBN-13 =  978-0128023075
+Product Dimensions =  7.5 x 0.7 x 9.2 inches
+Shipping Weight: 1.4 pounds 

@@ -1,0 +1,915 @@
+2018-08-04 10:41:17.222 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 10:41:25.817 DEBUG open_browser - open_browser_with_url: Opening the broser with the url  : https://www.amazon.com
+
+2018-08-04 11:09:39.358 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:09:40.590 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser
+2018-08-04 11:10:30.991 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:10:32.189 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser
+2018-08-04 11:10:45.536 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:10:46.707 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser
+2018-08-04 11:11:14.813 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:11:16.049 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser
+2018-08-04 11:11:51.112 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:11:52.339 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser
+2018-08-04 11:12:22.070 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:12:23.260 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser
+2018-08-04 11:14:06.691 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:14:08.033 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:14:51.613 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:14:52.883 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:17:15.803 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:17:17.042 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:17:45.440 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:17:46.608 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:18:29.468 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:18:30.849 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:18:56.844 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:18:58.027 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:19:07.797 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:19:09.120 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:19:19.895 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:19:21.159 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:20:09.961 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:20:11.188 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:20:42.988 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:20:44.150 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:21:30.477 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:21:38.907 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:21:42.130 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser''
+2018-08-04 11:23:26.904 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:23:35.211 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:23:40.500 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser''
+2018-08-04 11:24:30.824 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:24:32.013 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:25:23.899 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:25:25.051 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:25:51.154 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:25:52.363 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:26:10.276 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:26:11.489 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:27:56.454 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:27:57.615 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 11:28:29.295 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:28:38.893 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:28:47.291 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:28:53.033 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser''
+2018-08-04 11:29:23.467 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:29:31.766 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:32:55.388 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:33:03.739 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:34:55.416 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:35:03.878 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:40:52.546 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:41:00.858 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:42:56.877 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:43:05.206 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:49:06.584 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:49:15.360 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:52:10.714 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:52:19.176 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:53:43.220 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:53:51.677 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:55:48.768 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:57:51.270 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:58:00.697 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:58:09.021 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 11:59:24.265 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 11:59:32.620 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:00:47.080 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:00:48.264 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 12:03:05.670 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:03:06.826 ERROR open_browser - open_browser_with_url: Exception occurred while setting up the browser[WinError 2] The system cannot find the file specified
+2018-08-04 12:03:45.424 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:03:53.815 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:05:44.301 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:05:52.978 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:06:33.286 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:06:40.295 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:07:04.771 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:07:25.697 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:11:51.532 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:12:00.333 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:13:02.641 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:13:10.915 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:15:08.308 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:15:25.199 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:16:19.445 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:16:27.749 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:17:10.514 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:17:17.132 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:18:15.123 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:18:23.468 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:20:09.799 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:20:18.127 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:21:37.375 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:21:46.010 DEBUG open_browser - open_browser_with_url: Opening the browser with the url  : https://www.amazon.com
+
+2018-08-04 12:39:36.834 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:39:47.480 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:39:55.985 DEBUG open_browser - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 12:39:55.985 DEBUG open_browser - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 12:40:10.718 DEBUG open_browser - list_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 12:40:43.076 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 12:40:51.699 DEBUG open_browser - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 12:40:51.700 DEBUG open_browser - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 12:41:11.433 DEBUG open_browser - list_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 12:41:14.239 DEBUG open_browser - list_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 13:27:49.121 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 13:27:57.668 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 13:27:57.668 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 13:28:14.020 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 13:28:18.521 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 13:28:19.055 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item
+2018-08-04 13:39:18.490 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 13:39:26.759 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 13:39:26.759 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 13:39:48.646 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 13:39:51.657 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 13:39:52.177 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by clicking/submitting/ or pressing Enter
+2018-08-04 13:40:48.678 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 13:40:57.162 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 13:40:57.163 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 13:41:14.389 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 13:41:18.722 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 13:41:19.211 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by submit
+2018-08-04 13:42:09.594 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 13:42:18.009 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 13:42:18.009 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 13:42:57.283 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 13:43:01.954 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 13:43:02.574 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : Enter
+2018-08-04 16:16:11.421 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 16:16:19.736 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 16:16:19.736 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 16:16:38.297 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 16:16:41.573 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 16:16:42.053 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : Enter
+2018-08-04 16:20:15.253 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 16:20:23.720 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 16:20:23.721 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 16:20:33.151 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 16:20:36.483 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 16:20:36.938 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : Enter
+2018-08-04 16:20:37.463 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-04 16:21:42.319 ERROR reusable_methods - select_element_on_search_list_page: Unable to view 0th element on the search result list page :Message: Unable to locate element: {"method":"xpath","selector":"//ul[@id='s-results-list-at']"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpq4utcghv/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpq4utcghv/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 16:29:23.340 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 16:29:31.838 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 16:29:31.839 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 16:29:49.965 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 16:29:53.008 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 16:29:53.658 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : Enter
+2018-08-04 16:29:54.172 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-04 19:00:10.251 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 19:00:18.696 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 19:00:18.696 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 19:01:19.049 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 19:01:27.579 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 19:01:27.580 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 19:07:21.221 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 19:07:29.571 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 19:07:29.571 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 19:07:44.327 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 19:36:27.065 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 19:36:35.614 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 19:36:35.614 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 19:36:42.867 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 19:36:42.868 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 19:36:45.871 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 19:36:46.373 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 19:49:29.406 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 19:49:37.719 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 19:49:37.720 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 19:49:45.491 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 19:49:45.492 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 19:49:48.460 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 19:49:48.977 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 19:49:48.979 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 19:52:43.453 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 19:52:51.712 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 19:52:51.712 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 19:53:01.053 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 19:53:01.054 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 19:53:03.809 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 19:53:04.293 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 19:53:04.295 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 20:00:04.231 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:00:12.665 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:00:12.666 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:00:24.849 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:00:24.850 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:00:27.652 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:00:28.446 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:00:28.448 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 20:00:32.993 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-04 20:04:39.405 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:04:46.115 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:04:46.115 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:04:53.502 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:04:53.502 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:04:56.415 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:04:56.907 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:04:56.908 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 20:05:01.108 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-04 20:05:11.658 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-04 20:07:03.587 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:07:12.568 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:07:12.569 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:07:23.866 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:07:23.867 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:07:27.440 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:08:27.485 ERROR reusable_methods - select_item_from_drop_down: No drop down item found: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 20:13:30.630 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:13:39.302 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:13:39.302 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:13:52.304 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:13:52.305 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:13:56.212 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:14:56.272 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 20:18:08.067 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:18:16.399 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:18:16.400 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:18:27.291 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:18:27.291 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:18:30.631 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:19:30.671 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 20:28:20.100 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:28:28.377 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:28:28.377 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:28:28.759 ERROR test_case_1 - <module>: Test case failed to open amazon.com
+2018-08-04 20:28:28.759 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:29:10.285 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:29:59.203 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:30:11.284 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:30:11.284 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:30:50.036 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:30:50.037 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:30:53.634 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:31:23.739 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 20:32:46.900 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 20:32:55.197 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 20:32:55.198 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 20:33:07.412 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 20:33:07.412 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 20:33:10.629 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 20:33:40.675 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 22:21:26.034 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:21:34.879 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:21:34.879 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 22:22:26.848 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 22:22:26.849 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 22:22:32.116 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:23:02.167 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 22:26:49.632 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:27:01.203 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:27:01.204 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 22:27:21.352 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 22:27:21.353 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 22:27:25.129 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:27:55.176 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Could not locate element with visible text: Bookss
+
+2018-08-04 22:29:06.066 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:29:14.926 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:29:14.926 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 22:29:49.975 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 22:29:49.976 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 22:29:53.815 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:29:54.244 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:29:54.245 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 22:30:24.693 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpcg1lw4sg/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpcg1lw4sg/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 22:34:30.384 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:34:41.833 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:34:41.833 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 22:35:12.813 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 22:35:12.814 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 22:35:16.902 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:35:17.471 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:35:17.472 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 22:39:08.305 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:39:17.112 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:39:17.112 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 22:39:48.099 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 22:39:48.099 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 22:39:53.000 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:39:53.484 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:39:53.486 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 22:40:23.938 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmp3lm1nq6e/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmp3lm1nq6e/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 22:49:42.373 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:49:51.603 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:49:51.603 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 22:50:30.034 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 22:50:30.034 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 22:50:31.714 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:50:32.184 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 22:50:32.185 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 22:51:02.304 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpzb8_1ttx/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpzb8_1ttx/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 22:51:32.389 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-04 22:52:02.419 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpzb8_1ttx/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpzb8_1ttx/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 22:59:31.925 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 22:59:43.379 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 22:59:43.379 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 23:00:01.127 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 23:00:01.128 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 23:00:04.572 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 23:00:05.172 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 23:00:05.175 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 23:00:35.672 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpy14j9tuw/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpy14j9tuw/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 23:01:05.722 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-04 23:01:35.786 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpy14j9tuw/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpy14j9tuw/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-04 23:03:08.255 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-04 23:03:17.338 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-04 23:03:17.339 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-04 23:04:03.933 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-04 23:04:03.933 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-04 23:04:07.797 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 23:04:08.432 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-04 23:04:08.434 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-04 23:04:38.812 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextbox1"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpyomtrb8d/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpyomtrb8d/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 08:51:59.223 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 08:52:10.632 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 08:52:10.632 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 08:52:17.701 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 08:52:17.701 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 08:52:47.735 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Unable to locate element: {"method":"id","selector":"searchDropdownBoxx"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpq5jw0l6n/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpq5jw0l6n/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 08:53:19.778 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 08:53:28.333 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 08:53:28.333 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 08:53:36.881 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 08:53:36.881 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 08:54:07.006 ERROR reusable_methods - select_item_from_drop_down: No drop down item found or item is not there in the list: Message: Unable to locate element: {"method":"id","selector":"searchDropdownBoxx"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmp6luvm3dx/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmp6luvm3dx/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 08:55:42.508 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 08:55:50.938 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 08:55:50.938 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 08:55:57.850 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 08:55:57.850 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 08:56:00.563 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 08:56:01.049 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 08:56:01.051 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 08:56:06.617 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 08:56:13.049 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 08:58:01.789 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 08:58:10.687 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 08:58:10.688 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 08:58:17.398 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 08:58:17.399 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 08:58:20.245 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 08:58:20.724 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 08:58:20.726 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 08:58:51.764 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextboxx"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmppzl4dep0/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmppzl4dep0/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 08:59:37.624 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 08:59:45.897 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 08:59:45.897 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 08:59:54.434 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 08:59:54.434 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 08:59:57.109 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 08:59:57.578 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 08:59:57.582 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:00:03.764 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 09:00:14.325 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 09:03:07.530 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:03:15.893 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:03:15.894 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:03:25.367 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:03:25.368 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:03:28.191 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:03:28.690 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:03:28.692 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:03:59.059 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextboxx"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmp44ymkz81/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmp44ymkz81/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:06:43.875 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:06:52.173 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:06:52.174 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:06:59.721 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:06:59.721 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:07:02.734 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:07:03.162 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:07:03.164 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:07:33.529 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"id","selector":"twotabsearchtextboxx"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpucecns1w/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpucecns1w/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:08:03.641 ERROR test_case_1 - <module>: Exception occurred while executing test cases:Message: Unable to locate element: {"method":"id","selector":"s-result-count"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpucecns1w/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpucecns1w/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:15:38.973 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:15:47.697 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:15:47.697 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:15:57.952 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:15:57.953 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:16:00.989 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:16:01.563 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:16:01.566 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:16:06.063 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 09:16:15.021 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 09:16:48.049 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"xpath","selector":"//*[@id='nav-search']/form/div[2]/div/inpu"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpyfciq4m1/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpyfciq4m1/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:17:18.155 ERROR test_case_1 - <module>: Exception occurred while executing test cases:Message: Unable to locate element: {"method":"id","selector":"s-result-count"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmpyfciq4m1/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmpyfciq4m1/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:29:15.576 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:29:24.513 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:29:24.513 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:29:32.077 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:29:32.077 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:29:35.025 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:29:35.548 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:29:35.549 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:29:39.807 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 09:29:50.476 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 09:30:23.339 ERROR reusable_methods - search_item_in_search_box: Unable to type item in the search box or Unable to click on search :Message: Unable to locate element: {"method":"xpath","selector":"//*[@id='nav-search']/form/div[2]/div/inpu"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmps7b35ll3/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmps7b35ll3/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:30:53.428 ERROR test_case_1 - <module>: Exception occurred while executing test cases:Message: Unable to locate element: {"method":"id","selector":"s-result-count"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///C:/Users/mranjan/AppData/Local/Temp/tmps7b35ll3/extensions/fxdriver@googlecode.com/components/driver-component.js:11878)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///C:/Users/mranjan/AppData/Local/Temp/tmps7b35ll3/extensions/fxdriver@googlecode.com/components/driver-component.js:918)
+2018-08-05 09:48:07.040 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:48:15.439 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:48:15.439 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:48:27.785 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:48:27.785 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:48:30.692 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:48:31.259 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:48:31.264 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:48:37.116 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 09:48:43.868 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 09:49:26.653 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:49:35.429 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:49:35.429 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:49:53.191 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:49:53.191 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:49:56.448 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:49:57.049 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:49:57.051 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:50:05.009 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 09:50:14.204 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 09:50:20.864 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 09:53:57.698 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 09:54:06.361 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 09:54:06.361 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 09:54:23.038 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 09:54:23.039 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 09:54:25.852 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:54:26.305 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 09:54:26.307 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 09:54:33.520 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 09:54:41.395 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 09:54:52.042 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 10:21:12.492 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 10:21:21.001 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 10:21:21.001 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 10:21:29.963 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 10:21:29.963 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 10:21:32.730 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:21:33.196 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:21:33.197 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 10:21:41.318 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 10:21:49.384 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 10:21:56.943 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 10:23:44.581 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 10:23:52.834 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 10:23:52.834 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 10:24:06.967 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 10:24:06.968 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 10:24:09.717 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:24:10.167 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:24:10.168 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 10:24:14.795 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 10:24:22.717 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 10:24:29.745 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 10:26:19.328 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 10:26:27.586 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 10:26:27.587 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 10:26:40.577 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 10:26:40.578 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 10:26:43.546 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:26:44.082 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:26:44.084 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 10:26:48.946 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 10:26:57.503 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 10:27:10.221 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 10:32:24.211 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 10:32:32.506 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 10:32:32.506 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 10:32:42.326 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 10:32:42.326 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 10:32:46.802 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:32:47.410 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:32:47.412 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 10:32:52.167 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 10:33:04.651 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 10:33:10.615 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 10:44:13.879 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 10:44:22.199 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 10:44:22.199 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 10:44:43.993 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 10:44:43.993 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 10:44:48.304 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:44:49.089 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 10:44:49.090 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 10:44:49.623 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 10:45:06.083 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 10:45:06.395 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 10:45:17.137 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 10:45:17.669 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 10:45:17.842 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 10:45:23.254 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 10:45:27.439 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 10:45:38.049 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533446123&sr=1-1&keywords=data_catalog&dpID=51O9VAn0kTL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
+2018-08-05 12:50:42.163 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 12:50:50.558 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 12:50:50.559 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 12:51:00.157 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 12:51:00.158 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 12:51:03.047 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 12:51:03.576 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 12:51:03.578 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 12:51:04.127 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:51:07.010 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 12:51:07.912 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 12:51:17.444 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:51:17.966 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 12:51:18.092 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 12:51:21.621 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:51:25.865 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 12:51:35.328 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533453681&sr=1-1&keywords=data_catalog
+2018-08-05 12:51:35.331 ERROR test_case_1 - <module>: Exception occurred while executing test cases:get_text_property() missing 1 required positional argument: 'xpath'
+2018-08-05 12:52:46.325 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 12:52:55.150 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 12:52:55.150 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 12:53:05.787 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 12:53:05.788 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 12:53:09.682 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 12:53:10.137 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 12:53:10.139 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 12:53:10.850 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:53:14.072 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 12:53:14.207 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 12:53:20.166 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:53:23.184 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 12:53:23.279 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 12:53:27.688 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:53:31.226 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 12:53:39.791 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533453807&sr=1-1&keywords=data_catalog
+2018-08-05 12:58:15.956 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 12:58:24.292 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 12:58:24.292 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 12:58:35.802 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 12:58:35.802 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 12:58:38.898 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 12:58:39.269 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 12:58:39.273 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 12:58:39.557 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:58:43.854 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 12:58:43.945 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 12:58:49.504 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:58:50.311 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 12:58:50.451 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 12:58:53.906 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 12:58:55.794 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 12:59:04.572 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533454134&sr=1-1&keywords=data_catalog
+2018-08-05 13:03:14.924 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 13:03:23.306 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 13:03:23.307 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 13:03:37.541 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 13:03:37.542 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 13:03:40.668 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:03:41.176 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:03:41.179 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 13:03:41.733 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:03:47.886 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:03:48.431 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 13:03:55.783 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:03:56.226 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:03:56.317 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 13:03:59.460 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:04:02.734 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 13:04:11.143 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533454439&sr=1-1&keywords=data_catalog
+2018-08-05 13:28:07.583 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 13:28:16.091 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 13:28:16.092 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 13:28:39.784 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 13:28:39.785 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 13:28:42.626 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:28:43.092 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:28:43.094 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 13:28:43.607 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:28:56.170 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:28:56.306 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 13:29:03.494 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:29:03.922 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:29:04.017 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 13:29:07.545 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:29:11.416 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 13:29:21.927 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533455947&sr=1-1&keywords=data_catalog&dpID=51O9VAn0kTL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
+2018-08-05 13:32:13.769 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 13:32:22.329 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 13:32:22.330 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 13:32:40.837 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 13:32:40.838 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 13:32:44.270 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:32:44.785 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Fresh', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:32:44.788 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 13:32:45.371 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:32:58.313 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:32:58.438 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 13:33:06.529 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:33:07.042 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:33:07.134 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 13:33:10.310 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:33:22.632 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 13:33:41.427 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533456190&sr=1-1&keywords=data_catalog
+2018-08-05 13:34:51.562 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 13:34:59.870 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 13:34:59.871 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 13:35:23.911 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 13:35:23.911 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 13:35:27.330 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:35:27.985 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:35:27.987 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 13:35:28.520 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:35:42.584 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:35:42.721 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 13:35:55.232 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:35:55.597 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:35:55.696 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 13:35:58.923 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:36:02.341 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 13:36:14.629 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533456359&sr=1-1&keywords=data_catalog
+2018-08-05 13:36:49.247 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 13:37:00.810 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 13:37:00.811 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 13:37:30.607 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 13:37:30.608 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 13:37:34.931 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:37:35.428 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:37:35.430 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 13:37:35.948 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:37:42.059 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:37:42.205 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 13:37:50.701 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:37:51.274 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:37:51.398 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 13:37:55.135 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:38:00.258 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 13:38:15.157 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533456475&sr=1-1&keywords=data_catalog
+2018-08-05 13:51:58.817 DEBUG set_properties - get_properties: Reading the properties files
+2018-08-05 13:52:07.210 DEBUG reusable_methods - open_browser_with_url: ------------------------------------------------------------------------------------------
+2018-08-05 13:52:07.211 DEBUG reusable_methods - open_browser_with_url: Opening the browser with the url : https://www.amazon.com
+
+2018-08-05 13:52:14.951 DEBUG test_case_1 - <module>: Test case successful to open the amazon.com
+2018-08-05 13:52:14.952 DEBUG reusable_methods - select_item_from_drop_down: Selecting the elements of the drop down menu
+2018-08-05 13:52:18.090 DEBUG reusable_methods - select_item_from_drop_down: The list of items in the drop down:
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:52:18.583 DEBUG test_case_1 - <module>: Drop down for list of items found
+['All Departments', 'Alexa Skills', 'Amazon Devices', 'Amazon Warehouse', 'Appliances', 'Apps & Games', 'Arts, Crafts & Sewing', 'Automotive Parts & Accessories', 'Baby', 'Beauty & Personal Care', 'Books', 'CDs & Vinyl', 'Cell Phones & Accessories', 'Clothing, Shoes & Jewelry', '   Women', '   Men', '   Girls', '   Boys', '   Baby', 'Collectibles & Fine Art', 'Computers', 'Courses', 'Credit and Payment Cards', 'Digital Music', 'Electronics', 'Garden & Outdoor', 'Gift Cards', 'Grocery & Gourmet Food', 'Handmade', 'Health, Household & Baby Care', 'Home & Business Services', 'Home & Kitchen', 'Industrial & Scientific', 'Kindle Store', 'Luggage & Travel Gear', 'Luxury Beauty', 'Magazine Subscriptions', 'Movies & TV', 'Musical Instruments', 'Office Products', 'Pet Supplies', 'Prime Exclusive Savings', 'Prime Pantry', 'Prime Video', 'Software', 'Sports & Outdoors', 'Tools & Home Improvement', 'Toys & Games', 'Vehicles', 'Video Games']
+2018-08-05 13:52:18.586 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : enter
+2018-08-05 13:52:19.103 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:52:22.781 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:52:22.932 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : submit
+2018-08-05 13:52:29.824 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:52:30.891 DEBUG test_case_1 - <module>: Going back to the previous page
+2018-08-05 13:52:31.004 DEBUG reusable_methods - search_item_in_search_box: Putting text in search box and searching for entered text item by : click
+2018-08-05 13:52:34.242 DEBUG test_case_1 - <module>: Searching for the text 'results for' on the current page
+
+2018-08-05 13:52:39.247 DEBUG reusable_methods - select_element_on_search_list_page: Selecting the nth item from the search page results list
+2018-08-05 13:52:48.678 DEBUG test_case_1 - <module>: Current URL :https://www.amazon.com/Data-Analytics-Playbook-Governed-Analytic/dp/0128023074/ref=sr_1_1?s=books&ie=UTF8&qid=1533457354&sr=1-1&keywords=data_catalog
+2018-08-05 13:52:49.669 DEBUG test_case_1 - <module>: Congratulations! Test Execution is Successful
+Please check reports directory for detailed report.

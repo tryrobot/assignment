@@ -1,0 +1,9 @@
+Test Cases,Status
+Verify that amazon.com is successfully opened.,Success
+Verify that there is search drop-down list to select the different items in store.,Success
+Verify that in the search drop-down list there is option called 'Books'.,Success
+Verify that 'Books' option is successfully selected from the drop-down menu.,Success
+"Verify that search text can be entered successfully in search box and pressing Enter, searches the item.",Success
+"Verify that search text can be entered successfully in search box using Submit, searches the item.",Success
+"Verify that search text can be entered successfully in search box using Click, searches the item.",Success
+Verify that first item on the search result page is viewed successfully.,Success
