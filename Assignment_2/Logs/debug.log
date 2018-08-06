@@ -1,0 +1,21 @@
+08/06/2018 07:23:54 PM - SeleniumDriver - INFO: Element found with locator: searchDropdownBox and  locatorType: id
+08/06/2018 07:23:54 PM - SeleniumDriver - INFO: Books is successfully selected from the drop down 
+08/06/2018 07:23:58 PM - SeleniumDriver - INFO: Element found with locator: twotabsearchtextbox and  locatorType: id
+08/06/2018 07:23:59 PM - SeleniumDriver - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+08/06/2018 07:23:59 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='nav-search']/form/div[2]/div/input and  locatorType: xpath
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='nav-search']/form/div[2]/div/input locatorType: xpath
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Locating the element
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='bcKwText'] and  locatorType: xpath
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Locating the element
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Element found with locator: //*[@class='a-link-normal a-color-base a-text-bold a-text-normal'] and  locatorType: xpath
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Element found with locator: //ul[@id='s-results-list-atf']/li and  locatorType: xpath
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Element found with locator: img and  locatorType: tag
+08/06/2018 07:24:07 PM - SeleniumDriver - INFO: Clicked on element with locator: img locatorType: tag
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Locating the element
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Element found with locator: productTitle and  locatorType: id
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Locating the element
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Element found with locator: mediaTab_heading_0 and  locatorType: id
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Locating the element
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Element found with locator: mediaTab_heading_1 and  locatorType: id
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='productDetailsTable']/tbody/tr/td/div/ul and  locatorType: xpath
+08/06/2018 07:24:16 PM - SeleniumDriver - INFO: Element found with locator: li and  locatorType: tag
