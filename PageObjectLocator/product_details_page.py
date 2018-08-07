@@ -1,0 +1,5 @@
+book_title_id = "productTitle"
+kindle_cost_id = "mediaTab_heading_0"
+paperback_cost_id = "mediaTab_heading_1"
+product_details_xpath = "//*[@id='productDetailsTable']/tbody/tr/td/div/ul"
+details = "li"

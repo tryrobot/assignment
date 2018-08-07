@@ -1,0 +1,11 @@
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Getting the details of the pro08/07/2018 10:04:54 AM - TestAssignment - INFO: Writing the details of the book in a file
+
+0:04:54 AM - ProductDetailsPage - INFO: Element found with locator: productTitle and  locatorType: id
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Locating the element
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Element found with locator: mediaTab_heading_0 and  locatorType: id
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Locating the element
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Element found with locator: mediaTab_heading_1 and  locatorType: id
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Getting the element which contains the details about the books
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Element found with locator: //*[@id='productDetailsTable']/tbody/tr/td/div/ul and  locatorType: xpath
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Getting the details of the item
+08/07/2018 10:04:54 AM - ProductDetailsPage - INFO: Element found with locator: li and  locatorType: tag
