@@ -1,7 +1,0 @@
-Verify that amazon.com is successfully opened.
-Verify that there is search drop-down list to select the different items in store.
-Verify that in the search drop-down list there is option called 'Books'.
-Verify that 'Books' option is successfully selected from the drop-down menu.
-Verify that there is search box to search the user's choice of item.
-"Verify that search text can be entered successfully in search box and pressing Enter, searches the item."
-"Verify that search text can be entered successfully in search box and clicking on search option in UI, searches the item."
