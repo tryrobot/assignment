@@ -4,4 +4,3 @@ search_box_id = "id-twotabsearchtextbox"
 search_text = 'data catalog'
 click_button = "xpath+//*[@id='nav-search']/form/div[2]/div/input"
 
-print(click_button.split('-')[1])

@@ -25,7 +25,7 @@ class TestAssignment(unittest.TestCase):
     # Setting up the browser marionette capability false to sync with ff version and selenium driver version
     cap["marionette"] = False
     # Setting up the location of firefox binary
-    binary = FirefoxBinary(ff_binary) # Setting up the location of firefox binary
+    binary = FirefoxBinary(ff_binary) 
     log.info("initializing the driver variable")
     driver = webdriver.Firefox(firefox_binary=binary, executable_path=driver_location)
     driver.get(url)
