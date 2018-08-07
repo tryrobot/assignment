@@ -29,7 +29,7 @@ class TestAssignment(unittest.TestCase):
     log.info("initializing the driver variable")
     driver = webdriver.Firefox(firefox_binary=binary, executable_path=driver_location)
     driver.get(url)
-    driver.implicitly_wait(30)
+    driver.implicitly_wait(envrionment_details.IMPLICIT_WAIT)
     home_page_obj = HomePage(driver)
     product_details_obj = ProductDetailsPage(driver)
     search_result_obj = SearchResultPage(driver)
