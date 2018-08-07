@@ -48,7 +48,7 @@ Fill in all the details.
 
 ```
 Go to folder name 'TestPackage' and execute the command:
-py.test -s -v TestPackage/test_cases.py --html=path_to_report_dir/Htmlreport.html
+py.test -s -v test_cases.py --html=path_to_report_dir/Htmlreport.html
 ```
 
 ## Getting the report
