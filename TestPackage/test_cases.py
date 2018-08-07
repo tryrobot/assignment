@@ -68,9 +68,18 @@ class TestAssignment(unittest.TestCase):
         '''This assertion will ensure that search has been carried out for correct category as entered by user'''
         assert str(home_page.select_item)==str(self.search_result_obj.get_search_text())
 
-    '''Opening the details of the nth item'''
     @pytest.mark.run(order=3)
-    def test03_select_first_element(self):
+    def test03_input_to_search_box_and_enter(self):
+        self.driver.back()
+        # putting data into the search box
+        self.home_page_obj.put_data_into_search_box_press_enter()
+        assert str(home_page.search_text)==str(self.search_result_obj.get_search_category_name()).replace("\"",'')
+        '''This assertion will ensure that search has been carried out for correct category as entered by user'''
+        assert str(home_page.select_item)==str(self.search_result_obj.get_search_text())
+
+    '''Opening the details of the nth item'''
+    @pytest.mark.run(order=4)
+    def test04_select_first_element(self):
         # list of elements on the search result page
         list_of_elements=self.search_result_obj.select_nth_item_on_result_set()
         # Selecting the first item on the search result page by changing the driver
@@ -87,8 +96,8 @@ class TestAssignment(unittest.TestCase):
         self.assertEqual(uri_ref[-1:],str(search_result_page.item_no))
 
     '''Storing the details of the item in the text file'''
-    @pytest.mark.run(order=4)
-    def test04_get_details(self):
+    @pytest.mark.run(order=5)
+    def test05_get_details(self):
         book_title,kindle_cost,paperback_cost=self.product_details_obj.get_title_cost_of_book()
         element = self.product_details_obj.get_product_details_element()
         self.product_details_obj = ProductDetailsPage(element)

@@ -1,5 +1,6 @@
 __author__ = 'mranjan'
 
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
 from traceback import print_stack
@@ -57,7 +58,7 @@ class SeleniumDriver():
             self.log.info("Element found with locator: " + locator +
                           " and  locatorType: " + locatorType)
         except:
-            self.log.info("Element not found with locator: " + locator +
+            self.log.error("Element not found with locator: " + locator +
                           " and  locatorType: " + locatorType)
         return element
 
@@ -70,7 +71,7 @@ class SeleniumDriver():
             self.log.info("Element found with locator: " + locator +
                           " and  locatorType: " + locatorType)
         except:
-            self.log.info("Element not found with locator: " + locator +
+            self.log.error("Element not found with locator: " + locator +
                           " and  locatorType: " + locatorType)
         return elements
 
@@ -85,7 +86,7 @@ class SeleniumDriver():
             self.log.info(str(visible_text)+ " is successfully selected from the drop down ")
             return list_item
         except:
-            self.log.info("Can not find the provided text in the drop down "+
+            self.log.error("Can not find the provided text in the drop down "+
                           "With locator "+locator+" locatorType: "+locatorType )
             print(print_stack())
             return list_item
@@ -97,7 +98,7 @@ class SeleniumDriver():
             self.log.info("Clicked on element with locator: " + locator +
                           " locatorType: " + locatorType)
         except:
-            self.log.info("Cannot click on the element with locator: " + locator +
+            self.log.error("Cannot click on the element with locator: " + locator +
                           " locatorType: " + locatorType)
             print_stack()
 
@@ -108,7 +109,19 @@ class SeleniumDriver():
             self.log.info("Sent data on element with locator: " + locator +
                           " locatorType: " + locatorType)
         except:
-            self.log.info("Cannot send data on the element with locator: " + locator +
+            self.log.error("Cannot send data on the element with locator: " + locator +
+                  " locatorType: " + locatorType)
+            print_stack()
+
+
+    def sendKeysWithEnter(self, data, locator ,locatorType="id"):
+        try:
+            element = self.getElement(locator, locatorType)
+            element.send_keys(data, Keys.ENTER)
+            self.log.info("Sent data on element with locator: " + locator +
+                          " locatorType: " + locatorType)
+        except:
+            self.log.error("Cannot send data on the element with locator: " + locator +
                   " locatorType: " + locatorType)
             print_stack()
 
