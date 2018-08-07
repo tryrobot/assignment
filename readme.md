@@ -24,6 +24,7 @@ pytest
 pytest-ordering
 pytest-html
 
+```
 examples installing libraries:
 
 pip install selenium
@@ -32,11 +33,11 @@ pip install csv
 pip3 install pytest
 pip3 install pytest-ordering
 pip3 install pytest-html
-
+```
 
 ## Running the tests
 
-Go to Assignment_2->ConfigVar->environment_details.py
+Go to Assignment_2->ConfigVar->environment_details.py .
 Fill in all the details.
 
 ### To run the test and generate the report
