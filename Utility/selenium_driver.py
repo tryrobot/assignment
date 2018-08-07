@@ -3,9 +3,6 @@ __author__ = 'mranjan'
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.by import By
 from traceback import print_stack
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import *
 import Utility.custom_logger as cl
 import logging
 import time
@@ -15,9 +12,7 @@ import os
 Customized Selenium WebDriver class which contains all the useful methods that can be re used.
 These methods help to in the following cases:
 To reduce the time required to write automation script.
-To take the screenshot in case of test case failure.
 To log
-To provide waits
 
 """
 
