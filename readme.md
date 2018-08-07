@@ -47,6 +47,7 @@ Fill in all the details.
 ### To run the test and generate the report
 
 ```
+Go to folder name 'TestPackage' and execute the command:
 py.test -s -v TestPackage/test_cases.py --html=path_to_report_dir/Htmlreport.html
 ```
 

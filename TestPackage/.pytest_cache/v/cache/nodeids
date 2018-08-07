@@ -1,6 +1,7 @@
 [
   "test_cases.py::TestAssignment::test01_select_item_from_drop_down", 
   "test_cases.py::TestAssignment::test02_input_to_search_box", 
-  "test_cases.py::TestAssignment::test03_select_first_element", 
-  "test_cases.py::TestAssignment::test04_get_details"
+  "test_cases.py::TestAssignment::test03_input_to_search_box_and_enter", 
+  "test_cases.py::TestAssignment::test04_select_first_element", 
+  "test_cases.py::TestAssignment::test05_get_details"
 ]

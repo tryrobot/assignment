@@ -117,7 +117,7 @@ class TestAssignment(unittest.TestCase):
                 for detail in details[:6]:
                     fp.write(str(detail.text).replace(':',' = '))
                     fp.write('\n')
-                fp.write(str(details[6].text).split('(')[0])
+                fp.write(str(details[6].text).split('(')[0].replace(':',' = '))
             '''this assertion ensures that a file exists for the details or not'''
             assert os.path.exists(details_file_path)
         except FileNotFoundError as e:
