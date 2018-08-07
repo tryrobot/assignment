@@ -45,7 +45,9 @@ py.test -s -v TestPackage/test_cases.py --html=path_to_report_dir/Htmlreport.htm
 
 ## Getting the report
 
-Report directory contains the details about the book in a text file.
+Report directory:
+contains the details about the book in a text file.
+contains the html file with the detailed report of test execution
 
 ## Author
 
