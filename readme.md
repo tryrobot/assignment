@@ -4,7 +4,7 @@ The goal is to develop an automation framework to perform seach operation on ama
 
 ## Getting Started
 
-Copy the zip file named Assignment_2.zip on to your machine and unzip it.
+Copy the zip file named assignment.zip on to your machine and unzip it.
 or
 Import the project from the github.com/tryrobot
 This folder contains the project related files/folders along with a readme file.
@@ -40,7 +40,7 @@ pip3 install pytest-html
 ## Running the tests
 
 ```
-Go to Assignment_2->ConfigVar->environment_details.py .
+Go to assignment->ConfigVar->environment_details.py .
 Fill in all the details.
 ```
 
